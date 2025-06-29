@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures":
+    {
+      "layer0": "revnas_awesomeadditions:item/first_addition"
+    }
+}
