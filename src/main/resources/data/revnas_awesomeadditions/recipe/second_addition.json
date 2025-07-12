@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients":
+  [{
+    "item": "revnas_awesomeadditions:fourth_addition"
+  }],
+  "result":
+  {
+    "count": 9,
+    "id": "revnas_awesomeadditions:second_addition"
+  }
+}

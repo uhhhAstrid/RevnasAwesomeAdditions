@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "": {"model": "revnas_awesomeadditions:block/third_addition"}
+  }
+}

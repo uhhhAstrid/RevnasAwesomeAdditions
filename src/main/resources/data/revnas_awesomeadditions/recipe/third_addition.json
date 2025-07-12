@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "B":
+    {
+      "item": "revnas_awesomeadditions:first_addition"
+    }
+  },
+  "pattern":
+  [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "result":
+  {
+    "count": 1,
+    "id": "revnas_awesomeadditions:third_addition"
+  }
+}

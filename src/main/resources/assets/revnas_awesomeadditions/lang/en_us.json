@@ -1,4 +1,9 @@
 {
   "item.revnas_awesomeadditions.first_addition": "Revna's Rock",
-  "item.revnas_awesomeadditions.second_addition": "Revna's Other Rock"
+  "item.revnas_awesomeadditions.second_addition": "Revna's Other Rock",
+  "block.revnas_awesomeadditions.third_addition": "Revna's Block",
+  "block.revnas_awesomeadditions.fourth_addition": "Revna's Other Block",
+
+  "creativetab.revnas_awesomeadditions.revnas_items": "Revna's Items",
+  "creativetab.revnas_awesomeadditions.revnas_blocks": "Revna's Blocks"
 }
